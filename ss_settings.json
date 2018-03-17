@@ -1,0 +1,17 @@
+{
+    "server":"::",
+    "local_address": "127.0.0.1",
+    "local_port":1080,
+    "port_password": {
+        "8381": "password_1",
+	"8382": "password_2",
+	"8383": "password_3",
+	"8384": "password_4",
+	"8385": "client_1",
+	"8386": "client_2",
+	"8387": "client_3",
+	"8388": "client_4"
+    },
+    "timeout":600,
+    "method":"aes-256-cfb"
+}	
